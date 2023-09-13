@@ -1,3 +1,3 @@
-function checkProperty(str, obj){
+function checkProperty(str, obj) {
     return obj.hasOwnProperty(str);
 }

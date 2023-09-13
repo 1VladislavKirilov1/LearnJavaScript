@@ -1,3 +1,3 @@
-function createEmptyObject(){
+function createEmptyObject() {
     return Object.create(null);
 }
